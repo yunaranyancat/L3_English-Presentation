@@ -1,12 +1,12 @@
 Greetings
-Good morning, everyone. I'm WARDI Mohammad Zulfiqar but you can call me Zul. Today, I will be presenting to you a science related topic called 'Quantum Theory'. But before we start, I need two things from you guys. First, of course, your attention. I cannot guarantee that you will understand a thing in the end of the presentation if you lost your attention early. Don't worry, the presentation will last like only 10 minutes maximum. Secondly, a normal human brain structure has two hemispheres, the left hemisphere is responsible for control of the right side of the body and is more on logical thoughts, while the right hemisphere is responsible for control of the left side of the boy and is more on creative side of the brain. So, I need you guys to use more of your right hemisphere of the brain because this is gonna be interesting and far more adventuruous than what our left hemisphere has to offer.
+Good morning, everyone. I'm WARDI Mohammad Zulfiqar but you can call me Zul. Today, I will be presenting to you a science related topic called 'Quantum Theory'. But before we start, I need two things from you guys. First, of course, your attention. I cannot guarantee that you will understand sometihng at the end of the presentation if you lost your attention early. Don't worry, the presentation will last like only 10 minutes maximum. Secondly, a normal human brain structure has two hemispheres, the left hemisphere is responsible for control of the right side of the body and is more on logical thoughts, while the right hemisphere is responsible for control of the left side of the boy and is more on creative side of the brain. So, I need you guys to use more of your right hemisphere of the brain because this is gonna be interesting and far more adventuruous than what our left hemisphere has to offer.
 
 Gimmick
 Here, with me, I have cat, and an empty box. Let's imagine that this cat is alive and we'll call it Mr Cat and lets' imagine that this box contains a radioactive substance that has 50% of decaying. If it decays, it will release a poisonous gas and will kill us all. So, I will put Mr Cat inside this box for a quite amount of time. One question, before I open this box, what is the state of the cat? Is it alive? Or is it already dead? *pick someone randomly if no one raises their hand* Good, good. Okay, if you guys want to know the answer, let's start our adventure...
 
 Intro
-Firstly, I will be telling you a brief history of quantum physics, two public figures that contributed mostly in this field.
-Secondly ,the most interesting part, where I will be showing you how does quantum world work,
+Firstly, I will be telling you a brief history of quantum physics and two public figures that contributed mostly in this field.
+Secondly ,this will be the most interesting part, where I will be showing you how does quantum world work,
 And after that, I will be providing some real world application , 
 and lastly we will be sharing ideas or thoughts that you might have regarding this field.
 aaaand, if you have questions, feel free to interrupt me or we can wait until we reach at the end of the presentation.
@@ -21,7 +21,7 @@ Erwin Rudolf Josef Alexander Schrödinger or Erwin Schrödinger is an Austrian p
 Quantum Physics Experiment
 Now, comes the interesting part. Bear with me, we will be using quite a lot of imagination here to make things work.
 
-First, let us assume that a small object, such as a marble, a cute little marble... Imagine , here, we have machine that shoots this marble at the the board. If I put a single slit in front of the machine, then , the pattern that we can see at the board is like this..*draw at the board.. this is a single slit pattern, but, if we add another parallel slit, it will produce a pattern that look like this.. *draw double slit pattern at the board
+First, let us assume that a small object, such as a marble, a cute little marble... Imagine , here, we have machine that shoots this marble at the the board. If I put a single slit in front of the machine, then , the pattern that we can see at the board is like this..*draw at the board.. this is a single slit pattern, but, if we add another parallel slit, it will produce a pattern that looks like this.. *draw double slit pattern at the board
 
 Now, we will compare the marble with a wave. As we can see, the wave will pass through the single slit and will hit the board and thus produce a pattern directly in line with the slit. The brightest area is where the most intensity of the wave hit. This is similar to the line, the marble made.
 
@@ -29,24 +29,24 @@ But, when we add another parallel slit, something else happened, the pattern is 
 
 So, when we throw things that is matter, through two slits, we get this, two bands of hits, and the waves, we get an interference pattern, with many bands..
 
-Now, let's go further into the quantum world.. Let's imagine, an electron is a tiny tiny bit of matter,like a tiny marble, then as usual, we will shoot it through one slit.It acts just like the marble, a single band.. Okay, here's a quick quiz, what will happen if we add another parallel slit? Anyone? You, what's your answer? Anyone else with different answer?.. Okay..
+Now, let's go further into the quantum world.. Let's imagine, an electron is like a tiny tiny bit of matter,like a tiny marble, then, we will shoot it through one slit.It acts just like the marble, a single band.. Okay, here's a quick quiz, what will happen if we add another parallel slit? Anyone? You, what's your answer? Anyone else with different answer?.. Okay..
 
-Of course, logically, if we shoot it pass through two slits, we should get , two bands.., right?Wait what?AN INTERFERENCE PATTERN. We shoot an electron, which is a tiny matter pass through two slits, but we get pattern like waves, not like marbles...But how? How could this possibly happen? How could pieces of matter create an interference pattern like the waves? It doesn't make sense.. But, physicists are clever, they thought maybe those little balls are bouncing between each other and create those patterns, so, they decided to shoot electrons one at a time, there's no way they can interfere with each other, but.. after an hour, the same interference pattern has seemed to emerge.. The conclusion is inescapable, the electron act like the marble and the wave, at the same time!
+Of course, logically, if we shoot it pass through two slits, we should get , two bands.., right? like the marbles... Wait what?AN INTERFERENCE PATTERN. We shoot an electron, which is a tiny matter pass through two slits, but we get pattern like waves, not like marbles...But how? How could this possibly happen? How could pieces of matter create an interference pattern like the waves? It doesn't make sense.. But, physicists are clever, they thought maybe those little balls are bouncing between each other and create those patterns, so, they decided to shoot electrons one at a time, there's no way they can interfere with each other, but.. after an hour, the same interference pattern has seemed to emerge.. The conclusion is inescapable, the electron acts like the marble and the wave, at the same time!
 
-Here comes the term, SUPERPOSITION.. which simply means that, the ability of an object to be in multiple states at the same time. Did you recall the cat in the box experiment? According to Erwin Shcrödinger, before the box is open, the cat is dead and alive at the same time! It is when we open the box, that we only could see a single state, whether the cat is dead or alive. Therefore,in quantum, anyone who answered that the cat is dead, or alive, or alive and dead at the same time, is correct.
+Here comes the term, SUPERPOSITION.. which simply means that, the ability of an object to be in multiple states at the same time. Did you recall the cat in the box experiment? According to Erwin Shcrödinger, before the box is opened, the cat is dead and alive at the same time! It is when we open the box, that we only could see a single state, whether the cat is dead or alive. Therefore,in quantum world, anyone who answered that the cat is dead, or alive, or alive and dead at the same time, is correct. Okay, now we have finished our journey..
 
 REAL WORLD APPLICATION
-Okay, let's go back to the real world... Using quantum phenomena, we electron microscope to see smaller organisms better than light microscope, since electron can act like a wave, it has smaller wavelength than light therefore can magnify things better. For example, in the slide, is an image of an E.Coli virus. E.Coli virus is a virus that basically cause you to have severe diarrhea.
+Okay, let's go back to the real world... Using quantum phenomena, we use electron microscope to see smaller organisms better than light microscope, since electron can act like a wave, it has smaller wavelength than light therefore can magnify things better. For example, in the slide, is an image of an E.Coli virus. E.Coli virus is a virus that basically cause you to have severe diarrhea.
 
-Other applications of quantum physics are like the MRI Scanner and lasers..
+Other applications of quantum physics are like the MRI Scanner and lasers.. not objectives of presentation..
 
 CONCLUSIONS
 Okay, before I finish my presentation, there are different opinions regarding the quantum theory.. Based on the graph, some of the physicists don't really agree with how quantum physics work therefore leaving us,questioned.
-So, we have to wait for the final decision from the physicist whether to implement this theory into much wider field of science or not.
+So, we have to wait for the final decision from the physicists whether to implement this theory into much wider field of science or not.
 
 The reason why I chose this topic is because, I have a quite amount of interest in the quantum world, and when I was first introduced to the quantum field, I was baffled and my curiosity has successfully motivated me to dive deep into the quantum world...
 
-So, if you have any questions, feel free to ask me now, and I would like to thank you for your precious attention, and I also would like to use this opportunity to wish you a good luck for the exams.
+Now..., if you have any questions, feel free to ask me now, and I would like to thank you for your precious attention, and I also would like to use this opportunity to wish you a good luck for the exams. WITH THAT, I THANK YOU.
 
 
 
