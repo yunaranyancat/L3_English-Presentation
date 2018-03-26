@@ -6,3 +6,7 @@ If you have any problems or any ideas(before the day of my presentation), please
 I do not own any media contents included in the repo except for the information on my slide that I researched it with the sources mentioned in handout.odt. I will try my best to quote as much sources as I could. 
 
 My objective: Make it as fun as I could, but not funny.
+
+RESULTS
+
+The presentation was very fantastic and I was very satisfied with my performance. 
